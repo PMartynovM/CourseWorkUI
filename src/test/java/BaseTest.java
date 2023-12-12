@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class BaseTest {
     WebDriver webDriver;
     MainPage mainPage;
-
+// for PR
     /**
      * сегодня
      */
